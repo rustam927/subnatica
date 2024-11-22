@@ -1,0 +1,68 @@
+   .h1 {
+    font-family: 'Harry';
+    font-size: 50px;
+   }
+   .parent {
+    height: 2000px;
+    background: ;
+    margin-top: 200px;
+
+   }
+   .body {
+    background: red;
+    background-image: url(4.jpg);
+    background-size: 100% ;
+    background-attachment: fixed
+   }
+   .head {
+    background: #223676; 
+    height: 120px; 
+    width: 1100px;
+    border-radius: 10px;
+    border: solid 5px #1e244f;
+   }
+   .basicbox {
+    background: #223676;
+    height: 1764px; 
+    width: 1100px;
+    margin-top: 2px;
+    display: flex;
+    border-radius: 10px;
+    border: solid 5px #1e244f;
+    }
+    
+   .chapters {
+    background: #4e63ff;
+    height: 1744px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    color: #d3d3d5;
+   }
+   .headlink {
+    background: #4e63ff;
+    height: 50px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+   }
+   .basicboximg {
+    width: 400px;
+   }
+   .button {
+    color: #d3d3d5;
+    margin-left: 20px;
+    background: #002892;
+    height: 30px;
+    width: 100px;
+    border-radius: 7px;
+    margin-top: 10px;
+
+   }
+   .textbasicbox {
+    width: 830px;
+    color: #d3d3d5;
+    padding: 20px;
+   }
